@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GyuYeonHan.github.io/ReactMovieApp/static/css/main.de63fc6f.chunk.css",
-    "main.js": "/GyuYeonHan.github.io/ReactMovieApp/static/js/main.851c6d11.chunk.js",
-    "main.js.map": "/GyuYeonHan.github.io/ReactMovieApp/static/js/main.851c6d11.chunk.js.map",
-    "runtime-main.js": "/GyuYeonHan.github.io/ReactMovieApp/static/js/runtime-main.0f3fbf49.js",
-    "runtime-main.js.map": "/GyuYeonHan.github.io/ReactMovieApp/static/js/runtime-main.0f3fbf49.js.map",
-    "static/js/2.d9bf8a6b.chunk.js": "/GyuYeonHan.github.io/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js",
-    "static/js/2.d9bf8a6b.chunk.js.map": "/GyuYeonHan.github.io/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js.map",
-    "index.html": "/GyuYeonHan.github.io/ReactMovieApp/index.html",
-    "static/css/main.de63fc6f.chunk.css.map": "/GyuYeonHan.github.io/ReactMovieApp/static/css/main.de63fc6f.chunk.css.map",
-    "static/js/2.d9bf8a6b.chunk.js.LICENSE.txt": "/GyuYeonHan.github.io/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js.LICENSE.txt"
+    "main.css": "/ReactMovieApp/static/css/main.de63fc6f.chunk.css",
+    "main.js": "/ReactMovieApp/static/js/main.851c6d11.chunk.js",
+    "main.js.map": "/ReactMovieApp/static/js/main.851c6d11.chunk.js.map",
+    "runtime-main.js": "/ReactMovieApp/static/js/runtime-main.aaaa516b.js",
+    "runtime-main.js.map": "/ReactMovieApp/static/js/runtime-main.aaaa516b.js.map",
+    "static/js/2.d9bf8a6b.chunk.js": "/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js",
+    "static/js/2.d9bf8a6b.chunk.js.map": "/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js.map",
+    "index.html": "/ReactMovieApp/index.html",
+    "static/css/main.de63fc6f.chunk.css.map": "/ReactMovieApp/static/css/main.de63fc6f.chunk.css.map",
+    "static/js/2.d9bf8a6b.chunk.js.LICENSE.txt": "/ReactMovieApp/static/js/2.d9bf8a6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f3fbf49.js",
+    "static/js/runtime-main.aaaa516b.js",
     "static/js/2.d9bf8a6b.chunk.js",
     "static/css/main.de63fc6f.chunk.css",
     "static/js/main.851c6d11.chunk.js"
